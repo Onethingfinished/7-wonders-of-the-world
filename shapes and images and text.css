@@ -1,0 +1,28 @@
+h1{
+    font-family: BolsterBold;
+    font-size: 50px;
+    color: rgb(255, 145, 0);
+    text-align:center;
+    text-shadow:5.4px 6px 23px rgb(235, 235, 235)
+}
+
+h2{
+    font-family: Clarendon;
+    font-size: 40px;
+    color: rgb(0, 255, 179);
+    text-align:center;
+    text-shadow:5.4px 6px 1px rgba(211, 211, 211, 0.507)
+}
+
+th{
+  border-style: double;
+  border-color: red;
+  border-width: thick;
+}
+
+td{
+  text-align: center;
+  border-style:solid;
+  border-color: blue;
+  border-width: thick;
+}
